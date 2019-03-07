@@ -1,2 +1,1 @@
-# google-analytics-api-wrapper
-Google Analytics API Wrapper
+# Google Analytics API Wrapper
