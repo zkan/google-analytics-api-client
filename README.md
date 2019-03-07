@@ -1,1 +1,1 @@
-# Google Analytics API Wrapper
+# Google Analytics API Client
